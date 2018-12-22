@@ -109,7 +109,7 @@ function decodeToken(token) {
 let payload = {
 
     "name": "John Doe",
-    "email": "n.c.chaudhari10@gmail.com"
+    "email": "johndoe@gmail.com"
 
 }
 
